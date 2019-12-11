@@ -1,4 +1,4 @@
-package com.learn.java;
+package learnjava;
 
 public class HelloWorld {
 
